@@ -1,1 +1,1 @@
-# UWP-File-Hash-Privacy-Policy
+# File-Hash-UWP
