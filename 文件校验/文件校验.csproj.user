@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</Source>
+    <SmallTileSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</SmallTileSource>
+    <MediumTileSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</MediumTileSource>
+    <WideTileSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</WideTileSource>
+    <LargeTileSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</LargeTileSource>
+    <AppIconSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</AppIconSource>
+    <BadgeLogoSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</BadgeLogoSource>
+    <PackageLogoSource>D:\VS 2015-17 Project\文件校验\文件校验\AppPackages\无标题.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
