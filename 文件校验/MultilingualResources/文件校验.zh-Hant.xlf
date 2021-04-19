@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="zh-Hans" target-language="zh-Hant" original="文件校验/STRINGS/ZH-HANS/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="文件校验/STRINGS/ZH-HANS/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="主页1.Text" translate="yes" xml:space="preserve">
+          <source>进行校验会耗费一定量的内存,如果您使用时间较长,建议您重启应用继续校验.</source>
+          <target state="new">进行校验会耗费一定量的内存,如果您使用时间较长,建议您重启应用继续校验.</target>
+        </trans-unit>
+        <trans-unit id="主页10.Text" translate="yes" xml:space="preserve">
+          <source>将微软官方提供的校验值输入比对.</source>
+          <target state="new">将微软官方提供的校验值输入比对.</target>
+        </trans-unit>
+        <trans-unit id="主页11.Header" translate="yes" xml:space="preserve">
+          <source>核对校验结果</source>
+          <target state="new">核对校验结果</target>
+        </trans-unit>
+        <trans-unit id="主页11.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>请输入你将要核对的值</source>
+          <target state="new">请输入你将要核对的值</target>
+        </trans-unit>
+        <trans-unit id="主页12.Content" translate="yes" xml:space="preserve">
+          <source>核对</source>
+          <target state="new">核对</target>
+        </trans-unit>
+        <trans-unit id="主页13.Content" translate="yes" xml:space="preserve">
+          <source>在线核对SHA1值</source>
+          <target state="new">在线核对SHA1值</target>
+        </trans-unit>
+        <trans-unit id="主页2.Text" translate="yes" xml:space="preserve">
+          <source>支持校验MD5值,SHA1值,SHA256值,SHA384值,SHA512值.</source>
+          <target state="new">支持校验MD5值,SHA1值,SHA256值,SHA384值,SHA512值.</target>
+        </trans-unit>
+        <trans-unit id="主页3.Content" translate="yes" xml:space="preserve">
+          <source>选择并开始</source>
+          <target state="new">选择并开始</target>
+        </trans-unit>
+        <trans-unit id="主页4.Header" translate="yes" xml:space="preserve">
+          <source>基本信息</source>
+          <target state="new">基本信息</target>
+        </trans-unit>
+        <trans-unit id="主页5.Header" translate="yes" xml:space="preserve">
+          <source>校验结果</source>
+          <target state="new">校验结果</target>
+        </trans-unit>
+        <trans-unit id="主页6.Content" translate="yes" xml:space="preserve">
+          <source>复制</source>
+          <target state="new">复制</target>
+        </trans-unit>
+        <trans-unit id="主页7.Content" translate="yes" xml:space="preserve">
+          <source>清除</source>
+          <target state="new">清除</target>
+        </trans-unit>
+        <trans-unit id="主页8.Content" translate="yes" xml:space="preserve">
+          <source>分享</source>
+          <target state="new">分享</target>
+        </trans-unit>
+        <trans-unit id="主页9.Content" translate="yes" xml:space="preserve">
+          <source>保存到本地</source>
+          <target state="new">保存到本地</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
